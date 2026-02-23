@@ -1,4 +1,5 @@
 # Pemrograman-Aplikasi-Bergerak-TugasMataKuliah1
+# Azhaar Athahiroh | 2409116057 | Sistem Informasi 24
 
 ## 1. Tampilan Utama Aplikasi/Web
 <img width="1366" height="768" alt="Screenshot 2026-02-24 002330" src="https://github.com/user-attachments/assets/9c218db3-750f-44ee-821c-6e74f5903f05" />
